@@ -1,0 +1,24 @@
+{
+  "name": "JS-ARRAY-CRUD",
+  "version": "1.0.0",
+  "description": "create a crud app using javascript array\r f",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasoTD/JS-ARRAY-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DasoTD/JS-ARRAY-CRUD/issues"
+  },
+  "homepage": "https://github.com/DasoTD/JS-ARRAY-CRUD#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
